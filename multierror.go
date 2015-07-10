@@ -1,4 +1,4 @@
-package multierror
+package multierror // import "fknsrs.biz/p/multierror"
 
 import (
 	"strings"
